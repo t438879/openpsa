@@ -1,4 +1,5 @@
 OpenPSA [![Build Status](https://secure.travis-ci.org/flack/openpsa.svg?branch=master)](https://travis-ci.org/flack/openpsa)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ft438879%2Fopenpsa.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ft438879%2Fopenpsa?ref=badge_shield)
 =======
 
 [OpenPSA](http://midgard-project.org/openpsa/) is a management suite for web agencies and consultants that provides a unified interface for handling many common business processes. It is built on a component architecture that makes it easy to integrate new components for specific requirements and is available as free software under the terms of the LGPL license.
@@ -70,3 +71,7 @@ Then just configure your Lighttpd to pass all requests to the OpenPSA "rootfile"
 
 *Note:* this rewrite rule is a bit too inclusive, to be improved.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ft438879%2Fopenpsa.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ft438879%2Fopenpsa?ref=badge_large)
